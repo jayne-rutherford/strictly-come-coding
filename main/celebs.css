@@ -1,0 +1,45 @@
+/*
+    Background Colours
+*/
+.celebgrid {
+    /*background-color: pink;*/
+}
+.celeb {
+    /*background-color: blue;*/
+}
+
+
+/*
+    Celeb Name Font Colour
+*/
+.celeb h3 {
+    /*color: yellow;*/
+}
+
+/*
+    Celebrities Title Font Colour
+*/
+.celebgrid h1 {
+    /*color: yellow;*/
+}
+
+/*
+    Celebrities Sub Title Font Colour
+*/
+.celebgrid p {
+    /*color: yellow;*/
+}
+
+/*
+    Celeb Image border
+    */
+.celeb img {
+    /*border: 3px dashed red;*/
+}
+
+/*
+    Fade out evicted celebs
+*/
+.evicted {    
+    /*opacity:0.5;*/
+}

@@ -1,0 +1,49 @@
+.celebgrid {
+    position: relative;
+    margin-right: auto;	
+    margin-left: auto;
+    width: 976px;
+    background-color: #000000;
+    height: 850px;
+}
+
+.celebgrid h1, p {
+	color: #FFFFFF;
+}
+
+.celebgrid h1 {
+	padding-top: 16px;
+    margin-left: 16px;
+    margin-bottom: 12px;
+	font-size: 2rem;
+}
+
+.celebgrid p {
+	font-size: 0.875rem;
+	margin-left: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.celeb {
+	position: relative;
+    float: left;
+    width: 224px;
+    height: 168px;
+    margin-left: 16px;
+    margin-top: 16px;   
+}
+
+.celeb h3 {
+    	color: #FAECB4;
+    	font-size: 1rem;
+    	font-weight: normal;
+    	margin-top: 8px;
+        margin-left: 8px;
+
+ }
+
+ .celeb img {
+ 	width: 224px;
+ 	height: 126px;
+ }
